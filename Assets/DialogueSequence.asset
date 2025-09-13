@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38e08ce379975f344babdb7aaff32ed9, type: 3}
+  m_Name: DialogueSequence
+  m_EditorClassIdentifier: 
+  lines:
+  - speaker: "旁白"
+    content: "歡迎妳，新來的。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "我知道妳對這份工作一定有很多疑問。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "畢竟『遺物整理師』這個稱號聽起來有些沉重。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "但對我來說，我們不是單純在處理物品。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "而是在整理一段人生。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "每一件被留下的東西，都承載著一個人的記憶、情感，甚至夢想。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "你的工作，就是走進這些故事。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "輕輕地、溫柔地，將它們妥善歸類。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "整理的不只是物品，更是將某個人的過去....完整地交給未來。"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "旁白"
+    content: "準備好了嗎？妳的第一份委託，在等著妳。"
+    darkenScene: 0
+    brightenScene: 1
+  - speaker: "玩家"
+    content: "..."
+    darkenScene: 0
+    brightenScene: 0
