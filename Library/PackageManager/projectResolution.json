@@ -9,53 +9,22 @@
     "C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.55f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
   ],
   "outputs": {
-    "com.unity.ai.navigation@2.0.8": {
-      "name": "com.unity.ai.navigation",
-      "displayName": "AI Navigation",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.ai.navigation@eb5635ad590d",
-      "fingerprint": "eb5635ad590d47cef2a5c920d9475cc222db3f67",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "2.0.8",
-      "source": "registry",
+    "com.unity.feature.2d@2.0.1": {
+      "name": "com.unity.feature.2d",
+      "displayName": "2D",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.feature.2d@dd1ea8910f12",
+      "fingerprint": "dd1ea8910f12f021c166e8d0d78de44f1390ff6b",
+      "version": "2.0.1",
+      "source": "builtin",
       "testable": false
     },
-    "com.unity.collab-proxy@2.9.3": {
-      "name": "com.unity.collab-proxy",
-      "displayName": "Unity Version Control",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.collab-proxy@ab839cc7d2ad",
-      "fingerprint": "ab839cc7d2adf143e5378baf46edc31cbc5d84f7",
-      "editorCompatibility": "2021.3.0f1",
-      "version": "2.9.3",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.ide.rider@3.0.36": {
+    "com.unity.ide.rider@3.0.37": {
       "name": "com.unity.ide.rider",
       "displayName": "JetBrains Rider Editor",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.ide.rider@4d374c7eb6db",
-      "fingerprint": "4d374c7eb6db6907c7e6925e3086c3c73f926e13",
-      "editorCompatibility": "2019.4.6f1",
-      "version": "3.0.36",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.ide.visualstudio@2.0.23": {
-      "name": "com.unity.ide.visualstudio",
-      "displayName": "Visual Studio Editor",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.ide.visualstudio@198cdf337d13",
-      "fingerprint": "198cdf337d13c83ca953581515630d66b779e92b",
-      "editorCompatibility": "2019.4.25f1",
-      "version": "2.0.23",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.inputsystem@1.14.1": {
-      "name": "com.unity.inputsystem",
-      "displayName": "Input System",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.inputsystem@978211393e28",
-      "fingerprint": "978211393e28699aba338ed157cef347ac565bbf",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.ide.rider@0baf0f91edc0",
+      "fingerprint": "0baf0f91edc004d6f71bbd74a38e2503a5f1228b",
       "editorCompatibility": "2021.3.0a1",
-      "version": "1.14.1",
+      "version": "3.0.37",
       "source": "registry",
       "testable": false
     },
@@ -67,56 +36,6 @@
       "editorCompatibility": "6000.0.0a1",
       "version": "1.0.0",
       "source": "builtin",
-      "testable": false
-    },
-    "com.unity.render-pipelines.universal@17.0.4": {
-      "name": "com.unity.render-pipelines.universal",
-      "displayName": "Universal Render Pipeline",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.render-pipelines.universal@dd24be0d7cf1",
-      "fingerprint": "dd24be0d7cf165e3b4d0d5849c5ae051b9b7a957",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.test-framework@1.5.1": {
-      "name": "com.unity.test-framework",
-      "displayName": "Test Framework",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.test-framework@dfdbd02f5918",
-      "fingerprint": "dfdbd02f59180baa5668370b8f71f6fbeaa3b032",
-      "editorCompatibility": "2022.3.0a1",
-      "version": "1.5.1",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.timeline@1.8.7": {
-      "name": "com.unity.timeline",
-      "displayName": "Timeline",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.timeline@c58b4ee65782",
-      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
-      "editorCompatibility": "2019.3.0a1",
-      "version": "1.8.7",
-      "source": "registry",
-      "testable": false
-    },
-    "com.unity.ugui@2.0.0": {
-      "name": "com.unity.ugui",
-      "displayName": "Unity UI",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.ugui@529b01454a55",
-      "fingerprint": "529b01454a5505bdf629ef2d4df32fecada24ec3",
-      "editorCompatibility": "2019.2.0a1",
-      "version": "2.0.0",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.visualscripting@1.9.7": {
-      "name": "com.unity.visualscripting",
-      "displayName": "Visual Scripting",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.visualscripting@6279e2b7c485",
-      "fingerprint": "6279e2b7c4858e56cca7f367cd38c49ef66778c9",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.9.7",
-      "source": "registry",
       "testable": false
     },
     "com.unity.modules.accessibility@1.0.0": {
@@ -401,53 +320,93 @@
       "source": "builtin",
       "testable": false
     },
-    "com.unity.render-pipelines.core@17.0.4": {
-      "name": "com.unity.render-pipelines.core",
-      "displayName": "Scriptable Render Pipeline Core",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.render-pipelines.core@571bc777a084",
-      "fingerprint": "571bc777a0849704f6bb09e45582eb8d737d5b45",
+    "com.unity.2d.animation@10.2.1": {
+      "name": "com.unity.2d.animation",
+      "displayName": "2D Animation",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.animation@81ad133dbdf1",
+      "fingerprint": "81ad133dbdf13da9a686af329d3a20b84565fd89",
       "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.shadergraph@17.0.4": {
-      "name": "com.unity.shadergraph",
-      "displayName": "Shader Graph",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.shadergraph@58c763b6444e",
-      "fingerprint": "58c763b6444ecd3e0acae6fb62bb3057541917cd",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.4",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.render-pipelines.universal-config@17.0.3": {
-      "name": "com.unity.render-pipelines.universal-config",
-      "displayName": "Universal Render Pipeline Config",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.render-pipelines.universal-config@dd206bf35d04",
-      "fingerprint": "dd206bf35d0451204981fdb31d4c6831a0ee2a7e",
-      "editorCompatibility": "6000.0.0a1",
-      "version": "17.0.3",
-      "source": "builtin",
-      "testable": false
-    },
-    "com.unity.searcher@4.9.3": {
-      "name": "com.unity.searcher",
-      "displayName": "Searcher",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.searcher@1e17ce91558d",
-      "fingerprint": "1e17ce91558d1d9127554adc03d275f39a7466a2",
-      "editorCompatibility": "2019.1.0a1",
-      "version": "4.9.3",
+      "version": "10.2.1",
       "source": "registry",
       "testable": false
     },
-    "com.unity.burst@1.8.23": {
-      "name": "com.unity.burst",
-      "displayName": "Burst",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.burst@6aff1dd08a0c",
-      "fingerprint": "6aff1dd08a0c2f92ddb7f56ec033a5cb88967056",
-      "editorCompatibility": "2021.3.0a1",
-      "version": "1.8.23",
+    "com.unity.2d.pixel-perfect@5.0.3": {
+      "name": "com.unity.2d.pixel-perfect",
+      "displayName": "2D Pixel Perfect",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.pixel-perfect@e3ae982b672d",
+      "fingerprint": "e3ae982b672dc7cca42a6303bdf53b84c69991da",
+      "editorCompatibility": "2021.1.0a1",
+      "version": "5.0.3",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.psdimporter@9.1.0": {
+      "name": "com.unity.2d.psdimporter",
+      "displayName": "2D PSD Importer",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.psdimporter@e0ffc26deb40",
+      "fingerprint": "e0ffc26deb4024d7b96fd4903fd4a89dbce4059c",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "9.1.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "displayName": "2D Sprite",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.sprite@a1146c20a947",
+      "fingerprint": "a1146c20a94767d627b9db262ae136cedef9c2c7",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.spriteshape@10.0.7": {
+      "name": "com.unity.2d.spriteshape",
+      "displayName": "2D SpriteShape",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.spriteshape@9e35352ae135",
+      "fingerprint": "9e35352ae135f602746220e7edc09eb95bbec530",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "10.0.7",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.tilemap@1.0.0": {
+      "name": "com.unity.2d.tilemap",
+      "displayName": "2D Tilemap Editor",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.tilemap@3f6ff602680c",
+      "fingerprint": "3f6ff602680c7be3e17746d20ed91961ccec8b8f",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.2d.tilemap.extras@4.1.0": {
+      "name": "com.unity.2d.tilemap.extras",
+      "displayName": "2D Tilemap Extras",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.tilemap.extras@13634da7dbe0",
+      "fingerprint": "13634da7dbe06c39bac6bbe2d1a166cf91f58ad7",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "4.1.0",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.aseprite@1.1.10": {
+      "name": "com.unity.2d.aseprite",
+      "displayName": "2D Aseprite Importer",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.aseprite@dba7c65ef731",
+      "fingerprint": "dba7c65ef731c2cd2715a1be4eb9353b39eb570c",
+      "editorCompatibility": "2021.3.15f1",
+      "version": "1.1.10",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.2d.common@9.1.1": {
+      "name": "com.unity.2d.common",
+      "displayName": "2D Common",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.2d.common@bc041c6e0d0d",
+      "fingerprint": "bc041c6e0d0d69f1195446076eff5ef3189d3e92",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "9.1.1",
       "source": "registry",
       "testable": false
     },
@@ -471,13 +430,23 @@
       "source": "registry",
       "testable": false
     },
-    "com.unity.rendering.light-transport@1.0.1": {
-      "name": "com.unity.rendering.light-transport",
-      "displayName": "Unity Light Transport Library",
-      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.rendering.light-transport@9bd588f963c0",
-      "fingerprint": "9bd588f963c0ca6105f0978f9cfc66444032a804",
-      "editorCompatibility": "2023.3.0b1",
-      "version": "1.0.1",
+    "com.unity.burst@1.8.23": {
+      "name": "com.unity.burst",
+      "displayName": "Burst",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.burst@6aff1dd08a0c",
+      "fingerprint": "6aff1dd08a0c2f92ddb7f56ec033a5cb88967056",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.8.23",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.test-framework@1.5.1": {
+      "name": "com.unity.test-framework",
+      "displayName": "Test Framework",
+      "resolvedPath": "C:\\Users\\user\\Desktop\\Meowly\\Library\\PackageCache\\com.unity.test-framework@dfdbd02f5918",
+      "fingerprint": "dfdbd02f59180baa5668370b8f71f6fbeaa3b032",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.5.1",
       "source": "builtin",
       "testable": false
     },
