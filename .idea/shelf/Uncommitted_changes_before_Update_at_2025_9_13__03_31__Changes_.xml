@@ -1,0 +1,2932 @@
+<changelist name="Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]" date="1757748665959" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 2025/9/13 下午 03:31 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c6/c6b02d61ebeac3e24c1cda23754b3608" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/PresetBounce_Right.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c9/c915f70fae586f5442d4865cfe45f040" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.RenderPipelines.GPUDriven.Runtime.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ba/ba2d747ae4ec58b9fc63606420e3c1d1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Mouse@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/63/63476a2c232aae94df1428fc491376de" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_f5e11201c93244611b235bb9cbd6d39f.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d1/d1629655c0691411c4af6e3281b5d290" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/07/079d9207c9222f30a456b080a3ed8e1a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/SampleVirtualTextureNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2e/2ec0a71a9de8fb5324a1dbc9c537ab4d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Decals/BlobShadow/BlobShadow_Mat.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Indicators/Aqua Meter.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextLineBreak.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5c/5c75dcad28c9fcf5026a021c2f19a349" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/keywords_enum.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/68/68c8a760ff3968bcbab01adda4020ebe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d7/d7c4b872481f11611b8b0a9c96a49549" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/63/6378a3e0891aa34683b6c8abf3b22178" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/iconplasticnotifyconflict@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d8/d8127407f7bc1156477ca86c6ae4f234" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Materials/Samples_RoughSteel.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/48/48f9ab7bd01859910fbf047ce14214e8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bc/bc416aeef52e0a55e4cf157932c53268" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BlueNoise64/L/LDR_LLL1_0.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/70/7008aa6de6cbccb73b088f9b45d18474" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3a/3ab2eeea60c297260638f090ae4feb6d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0d/0df2035dcb591b17e6a61176dc8264f0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a5/a5183da5962fd8b59779f55242c8cf0c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/sunset_sky_02.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Blocks-Vertex-Normal.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BlueNoise16/L/LDR_LLL1_1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/01/01e89cb2f7b3e3da9d0577ee51bba67c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/85/85f2f71cf698c9fec751541c13b7a76a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/AllNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Documentation~/Images/NavigationSetupObject.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-custom-first.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/DecorativeLight@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/80/803ce50a3812a2146302d17998b439f0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4e/4e67a9ff305951a3fd6ae27cc10fdc73" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-events-custom-event-node-blank.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/82/82ad647764b4b2234fafa6f20cb85f4e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e9/e9ba9c717bb25bc7d7f8394f0e08b9ef" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.VisualScripting.Core.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/42/424144f98420cdee5e6f7c268197e24e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleOFF.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a0/a080b017584ab6f899e9e1415aa71fe4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Searcher.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/GraphView/Nodes/NodeChevronRight@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/Microsoft.Win32.Registry.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/55/558d402a825f2c849d3e52f247c760a9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconplasticnotifyincoming@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ba/ba1a3dcff9e97bfb0c0fa4f8e17f37e4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Custom-Function-Node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collections@56bff8827a7e/Unity.Collections.PerformanceTests/PerformanceTestFrameworkOutputListAdd.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Background1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.Entities.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPRenderGraphSamples/MRT/MrtMaterial.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d8/d817347f01049b49c41e0e7e6aaba711" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Blocks-Fragment-Specular.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.ShaderGraph.Utilities.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/69/69cbf363e1716cc05a3b646dd35fb916" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4d/4d044fc6af7243baa6a044ad5e781c9c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/16/166819b0b7deba10cc7a7b31f00d203a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/notes_selected.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4a/4aa94a4e678ce25162340d8bc2ab5efd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/VeryBrightSun.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/DistortTunnel/Plane/plane.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/69/693e980459cb6ed38fea044a85d1b240" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/df/dfdb26a012c2def761dffc7e5d5c562e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Background4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.TextMeshPro.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Samples~/Materials/grey.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Scenes/HDRPFeatureExampleScene/HDRPFeatureExampleScene Baking Set.CellBricksData.bytes" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/IconMap/FlowMachine@32x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7f/7feefa90d1a9981a0c5b0fc5a31f5ced" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/de/def4ed26a1598c9b5dea6e6aa885ee6b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/83/8348943626ac8a9407077d8e6326211b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/MinimumNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b2/b2ce2e1cf6151bf6d3fd4cc56929f6cf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Editor Resources/Textures/btn_AlignMiddle.psd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ea/ea4052b23761fb561abeab22470778f4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BlueNoise16/L/LDR_LLL1_28.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/UnityEditor.UI.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Shader_DFMM_Debug.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/65/65c709688e2a70f7ff92cad54f73abe2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-extrap-two-tracks.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/69/69a3fd80bd85370b78dce3064484e33b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BayerMatrix.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/28/28e56b27001dfe94977bda7b5aff2004" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.PerformanceTesting.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Details/Ferns/Fern.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/NavigationOverlay@256.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/93/93a8d645df67d1b7eaf48050f9edff66" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Precision_SubGraph_03.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Buttons/SciFi Button.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Editor Resources/Textures/btn_AlignCenter_Light.psd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/Documentation~/images/burst-noalias.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/43FFF67504C1B77C" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Videos/M30-1356.mp4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_209746fb9df6b9e66808d1c71bbb249b.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-context-menu.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0c/0c303ea0156bcf19b23eb1d0f3fa3c68" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/aa/aa9867d166ea30631664d8daaa1c8b35" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.PlasticSCM.Editor.Entities.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e7/e75df5064d00506dd7f54529078561bb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8c/8ce0f41d18a859b41681a3ca10c807bb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/fa/fa1f0dce3d9c41ab403a47c649ddb8f3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/Arccosine.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/MipLevels/RenderPipelineResources@16.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/60/60e2ad6a07d0a3dcfaa180d0abad74f9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Samples~/Terrains/layer_LightmapWithFog(2048.000,2048.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BlueNoise16/L/LDR_LLL1_22.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c3/c3e5e87f3abf91dba5194d71a9e505f1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/windows_d.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/Timeline-Marker-Warning-Overlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/RenderGraphViewer/dash.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-nodes-events-on-mouse-enter-example-2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/TimingFastFPS.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Scenes/URPProductionReadyShaders/ReflectionProbe-3.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/IconMap/State@32x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.Plastic.Antlr3.Runtime.dll_F6EE2176487706CE.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.Shared.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.Plastic.Newtonsoft.Json.dll_2F018D732F244A87.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5d/5d96a1abfd611d29e73dbc6c55aad9bb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/39/39f9b8ed340ffad34c6b517374e364a2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconconflictedoverlay@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Interactive Binding@4x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/28/28cd337bad1ed2a5c73f887511fde6ff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/cd/cdec6c3f0a3d1e7a90998a0b76850b28" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/64/643a6fefd59039703a0429d71cf4f97a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9f/9f3a4c0293d2be5e9a9c51b136c8231d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d1/d1081c54bb344f8707163991a6fbdca9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextIntro4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Procedural Noise and Shapes/HexGrid.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Input/SampleGradient.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/Fluorescent.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f7/f778924f5ec42014fc507c223439365c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/40/40eafc2ba8e01a590d8cdd760f91aa94" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/RadiansToDegreesNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7e/7e91975f65e8f7b10acad50a4515deba" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/ResetMenuItem.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/AssetEditor/PackageResources/pro/actionTreeBackgroundWithoutBorder.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Details/Pebbles/pebbles.FBX" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3d/3d9818fb49535968efde63036908e67c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3e/3ee9be045698e2e13b84aa301120f67a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/79/79a5181d8f6ff846fc071b1015555511" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/IconMap/AnimatorMessageListener@32x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9c/9c5c0c520be3a0f486169b6f3312067a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/3d3f841dd6655611906fde962c37cec7_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8a/8a6478ea35ce9e74316087d3641e80c9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Animation/Staff_vs_Staff_OneFight_MaleA.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Samples~/RebindingUI/Icons/PS4_L2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Info/Icons/TDTicon.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8d/8d606701af87ff7f992e903328d35f49" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Subgraphs/Billboard.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/13/137d337e3d1621bb21378bc3f2130742" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-on-input-system-event-button-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Subgraphs/PixelClip.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_icondeletedremoteoverlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5a/5ad05eb86e2bd7ae3c68e729294e393f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/Time/Linear Time.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/41/41e12bdc3a324b1d5c42011767c9e7a9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_MaskInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Letter_O_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/UV/Move.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8c/8c01cb158213d0547befdb06280556f6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/07/074fafeb4103f5d046f5a825ab914f31" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Weather/Rain/RainProps.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineSignalCollapsed.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TrackMuteButtonDisabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_MultiResBase.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Input/SceneDepth.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotyqhapub2.2th/lib_burst_generated_part_fecfb57657b3f1d8498f6d1ebe10e110.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_secondarytabclosehover@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/sg-gather-texture-2d-node-example-3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/351c0b6555a893f243f6ec6373d08480_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TimelineClipFG.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-clip-anim-timing.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0b/0b79a2adba1eeafc6a6fae97bf8cd4dc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/SquareWave.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/UV Projection/InteriorCubemapping/InteriorCubemapping.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Letter_E_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/Moss_CO.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ca/ca73b2f9150dd1eac226c4424398e4a4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/40/402a2dce5961ed35dc6a69e11e8194e0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProceduralPatterns/Hex Lattice.ShaderSubGraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Rider.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Condition/BranchOnMaterialQuality.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-redsphere-director.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Samples~/RebindingUI/Icons/XboxOne_A.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Search/transactions.db" />
+    <option name="AFTER_PATH" value="Library/Search/transactions.db" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/transactions.db" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/MipChecker.dds" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d5/d5fe51e736e4387d4ceae0134c3e82c8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/db/db73c2b54a1eabe8b366988b25b5c05d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/TangentNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6d/6d147979976ef8f8d5882d6889ea7dab" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6d/6d25e9c67bffb2cedd15d51b94d1ca5a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9c/9c3fec4b23221da4684392f93233a2a8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/ObjectNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/BlueNoise16/L/LDR_LLL1_25.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/67/67d21c3a1477124a225e01b77ee2dac2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/CameraStacking/MixedFOV/MixedFOV/MixedFOVSettings.lighting" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Config.Runtime.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/2D/Resources/LightCapUp.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-node-example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/92/92558d8b094ee6e739b66d64ff2cdfe5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPRenderGraphSamples/GbufferVisualization/GBuffer_Visualization_Material_Sample.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-nodes-events-on-mouse-down-example-2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d7/d7ea3b3bc308f2815439f99e6a34f4cf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a4/a43322d8894ab09c82ef8992da8cee3b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Object_Wrapping.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aot8diavbli.b3x/lib_burst_generated_part_82ff8baa2abd920945d7abccccedb808.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5c/5c796c62df5dd66cbfb7cdcf5dcc9ce2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/Label-A.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Shader_DF_Face.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/CombineNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Blocks-Fragment-NormalOS.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/61/61433d216c8b4dad560f9fb47d97b719" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/SharedAssets/Materials/CheckerFloor.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b9/b9053b3f86a01d065b2efcb86e1f5294" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/cb/cbf5265ab3423ded4047f8ec91409878" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-clip-converted.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/Remap.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/MipLevels/VolumeProfile@64.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_loading@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/53/53e64b6edfdd3dcfaa7f4ece128a0957" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/aa/aacb40fc0befed6c6e20fc7008f2398f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/terrain/stone_ground/stone_ground_m.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextGradient.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5f/5f2b8a9bac9937fdee29bc9ee8f3d1cf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_DropdownExampleOpen.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/ReflectionProbeNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconshelve.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Editor Resources/Textures/btn_AlignMidline_Light.psd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/MyFirstShaderGraph_09.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ad/adab8d35f866c3d3ce90b3e1cb483e9c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/iconbranches.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0d/0d77b8496634b26d5cc14597e34a0d2b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Animation/arrow.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/PostProcess/PostProcessVHS.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/c1ae00aa49f40a0fd30b60c9c76d415c_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/c504a305c21b0ea5cc7f1080b1c4ad64_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Shared.Editor.ref.dll_9669F6EBFF6DFFB7.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-5.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bf/bfc631423805490be39e4c3ea719c628" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c0/c06bc4c3ba9e04c5962a72c4977f0390" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Particles/Misc Effects/Textures/DustMote.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Samples~/Materials/brightgreen.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/23/23b766a86117bb133a5919c4baece114" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ee/ee7aa3c8754b1dfd80d90dfe69207ec4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/36/36866f5d31a79d938e1d629f0b923c03" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/74/7412c6f928945fef90dfe45160883a24" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/Overcast.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2d/2d156dcfd6c7eb62f11cf0e2e0e6c84e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Weather/Rain/RainRocks.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Materials/Samples_Tripod.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.searcher@1e17ce91558d/Samples~/Resources/twotone_emoji_people_black_18dp.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Add Binding@3x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Weather/RainExample.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TrackRecordButtonEnabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Shaders/ParticleEffect.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e5/e58c7f596c32d43aa67aa4342d463fa3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/TrailEffect/DepthNormal.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/89/895c19e986ed1e6765593228cc005ac5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Blocks-Fragment-Metallic.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/proj-notes-folders.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/85/859b34cf5eac1b3d801dc982c734421b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Timeline.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/63/6380b21d1072ac7336555836146d8266" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0f/0fab6c9aa4a86aca2d0da3f4fd47b471" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Weather/Rain/Components/Puddles.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/90/909d67fb1ff8f7509c4232974e94175c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Lib/Editor/log4netPlastic.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-relations-debugging-show-relations.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/24/24c6934526c82125a328ad50d1245510" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/94/943d206889b6edd36fdaae93abe30b64" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Buttons/Simple Button.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Lit/URP Lit.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/69/69902bdc995bb5df3b9ee20b376a196f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4e/4e1c9b446014d90aead9e97338fa0b08" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/Step.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/d_Position@3x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/53/53c575fcae8739b919e78eb923ea5e4d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7b/7b801eaed5fecff4a219dd4ceeaf8bdc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Meshes/Rock_A_02.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/87/873b48f19318ad02233dac528e8c0cc8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotyqhapub2.2th/lib_burst_generated_part_68a8ea65a4f1ea752d1138be3be73a9a.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.SettingsProvider.Editor.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/65/6574d3cc65fadb2fc00104b17bdb4014" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TrackLockButtonDisabled.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4c/4ccacb478c5c813504cefdce7f618fe3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Mdb.dll_33352EA77CF2B9C9.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4e/4e6e636348c76809b9c52376d072aeb5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotyqhapub2.2th/lib_burst_generated_part_cf20d690c33ab495d44c548cd6a31428.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TrackMarkerButtonEnabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_OutlineExample.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/d_Dpad.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-my-node-custom-node-port-labels-hidden.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/81/81ba1c5f5dad1f02e88230821c084b13" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Videos/M30-1422.mp4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aot45oytkyp.7sa/lib_burst_generated_part_77fc393cb521ac129b1392d4eb94d29a.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/terrain/ground_grass_fells_mossy/ground_grass_fells_mossy_m.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_InspectorSpriteAssetSpriteInfo.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/99/99327f111e0c178d88ec0fb8aee6496d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b1/b14b09238c64b771786c7afe4b4b1e34" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_3b4428102ac29b8776e97bd2840b189b.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/GraphView/Nodes/NodeChevronLeft.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8c/8c9d18bbed9d97f1d4663895c1a9ec46" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6a/6a2c872f29d4c757bfcf5f438bfcfed7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI-ViewTool.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Letter_P_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a2/a2d0a984a8ba8655e2b29709c705cae6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f4/f43ad6f9492eba84276c629d0ad38382" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/eb/eb6f4d4967f6c7f0b87c5b7e238308d7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/d_Pen.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/Time/Sine Time.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/24/24e6134c97d282b197432d218ae40868" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/f72da556084881e2d28f0edb847dafb0_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Models/CubePanel.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Buttons/SciFi Button.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ad/ad97d0019ba87f8136a860de01115c1d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/refresh.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Position@4x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/be/be04baa3241ca5db5dba0f76404fc3ff" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Water/WaterStreamFalls.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-my-node-custom-node-data-input-output.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/Reciprocal.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/06/066d7fc2e6664b17618f873533757fd0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualStudio.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Materials/WorldSpaceGrid.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/b4e56a6743ba0a406f45109ca80ffb6c_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/VertexAnimation/Particles/Fountain.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/81089ef13d383ac1c1661ae88dce41bf_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.Rendering.LightTransport.Runtime.ref.dll_35E0707C8501A09D.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/Processors-Ship-Neutral.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/da/da07d936734f025fda567717c77c07ce" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Object_UIInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.PerformanceTesting.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/16285879237017002407.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-control-break-loop-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/sg-sample-texture-3d-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Runtime.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/System.Runtime.CompilerServices.Unsafe.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c7/c70d912eaaff445692218e6bb053dabd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/98/98b2729da0f564b8b36e9087ac6ae817" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Models/Curtain.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libs/burstRTL_w64.lib" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_ScrollBarInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a2/a26dd95dc28dc5c01ed875139b7eb566" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.RenderPipelines.Core.Runtime.Shared.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3d/3d36348623872dd1ec816175101e01df" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f7/f798c43090bf859e1066bb1c11fb73d8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/Icons/sg_graph_icon_gray_dark.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.InputSystem.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconaddedlocal@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/GUIScriptingGuideHelloExample.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/aa/aa42fae7da1dd316c56d7ba04d8b22cf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/d_NavigationOverlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c9/c97d0f3808f63705e59513d8ad1f4618" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/iconinfobellnotification.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/47/474ca7fbf840f5a4964c30d8fc955fe4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d5/d5a59bba2ec4a72d88f9a7d37f149f3d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Patterns_Page.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bf/bfe622c7ce494f8fbbc6c7e37de3f268" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5a/5ad50ed0498f310ba94c74887866335f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/1c/1c0546977b00ffc57394bd4b0c4508ee" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Numeral_1_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/75/751756cd2e1da808250a0cd386c906ba" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/33/33e0f44a1cedf93cb560a7fd498474c8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Scenes/URPProductionReadyShaders/ReflectionProbe-0.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2b/2be0173c2f709f091831276a86a53715" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b2/b27365ff664003b0616d76c716f78b9e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.ShaderGraph.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Documentation~/Images/NavOverlay-docked.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_37865de3b54f1de9211580a333ee3519.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/46/46ae7ca3ed55b6722182d0b9ae33eb62" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_CanvasScreenSpaceCameraInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f1/f1d70589da5080b311c5cdb55f8ce324" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/cc/cc2b047e31d48e2acc6b5cff4d48e858" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/UndoData.bin" />
+    <option name="AFTER_PATH" value="Library/UndoData.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/UndoData.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_Rotation.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/12/12b597000a758ee864bee6c71ac8343d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/89/8986025729633590f39e921b5dd807c2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Buttons/SciFi2 Button.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-sticky-note-example-color.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconclouddriveview@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.PlasticSCM.Editor.Entities.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5f/5fb0cb1c494f3d70c5662963752826b5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e1/e168f63b2b5da39eeedd38e533f64616" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Textures/cobblestones_n.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/23/23791f634a2be4945cfbc0dc4444fcb5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_stepok@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-curves-anim-clip.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e5/e5159c40406e13a284d5eef9761d6e67" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a7/a773330558e6e26924d186310cced585" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemCollapsed.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6f/6f0af06c97fd1f7f53919ceade413802" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/LayoutCustom@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d0/d06c404717ac24c5dec9680874f1a33f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/GUI_ButtonInspectorAnimation.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/VS-get-state-graphs-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5b/5b86f28cd5988a004457af3edfefab1a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/37/37c2912649351e0a392c946124745ff8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/d_LightPlacement_Icon.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a7/a71411988e7e8a39743c51ac8aade748" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/21/21d5f8ada7aae5f36aa3e892da757f65" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Meshes/Billboard/PositiveX.FBX" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/spec-tl-menus-convert-clip.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.GPUDriven.Runtime.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/2D/ShapeEditor/Resources/TangentLinear.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.2D.Runtime.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_ColorGradient_2-Corner-YBYB_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Shader_DFS_Bevel.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c6/c6c5fb177ba6dc18f77576e6c0976de9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/MultiplayerEventSystem@64.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Editor Resources/Gizmos/TMP - Input Field Icon.psd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a5/a542a306b50902e1c70e7c96ac835c5c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b5/b5a933f64533b8268462f768e5a3c643" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/08/08ece080e7b0078a0c579eab135aa31f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/54/54f270a9d08d053ac4cc752c14908af2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/17/17a3d47487b436e63450e24a1250743f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Resources/Gizmos/ProbeVolume.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProceduralPatterns/Herringbone.ShaderSubGraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Scenes/HDRPProductionReadyShaders/ReflectionProbe-0.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-open-project-window-graph-files.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e9/e90d8ac18323ce4158d4b6fe17d9fb64" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/79/796eab6a341442f96d98998cf4b4a24b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b0/b05bb77cc85e0c7d4c85d400bfd7e088" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/ComparisonNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/10292501669419677951.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/12/12a19258c2313671f3ee85f01e1acad6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Water/foam_mask.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/31/31e0727601ad8e836f36bfe425bbaf4f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/76/76549bd55c0a8772b999a2c7e2adbfb0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2b/2bb14d185014e8527d7fbd08056248cd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/12/12323e2e41c19ac68b0b3353497a6f53" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a6/a6861cacac4048cc4b4e31dfbf7a63bd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/24/24bf3a955e3dcaa675890c5ccaf1edfc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.searcher@1e17ce91558d/Editor/Resources/FlatSkin/Font/Roboto-LightItalic.ttf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bb/bb4524c2b13a823cd1757c7855cfe7be" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/af/af4c4ecad1e25071a17a9ac090d1f160" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/button-add-track-menu.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/loading@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/74/74eda98698e55f37b2052806330e41b6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/Patterns/Bars.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/45/4539ddbf8b05d6766d2ed95fd6728460" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/14402696373757716438.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aot45oytkyp.7sa/lib_burst_generated_part_adceb2156d08d59afc9749dc2521fd2b.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/d_NavigationOverlay On.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Timelines/CustomTracks.playable" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7e/7e88956a2642ad9b41dfa5e1cb877569" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c7/c7e47c19440fef99ca94ad676055dc1f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/59/59977df8fbbf46d20440928db99f26b8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c0/c02871218548f8942d3a810213c52e07" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Keyboard.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Animation/JumpDown-Sprt_St.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Graphics/FlowPorts_12x.psd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Textures/clouds.tga" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/38/3894e517eb99b3634b829aa0fdabf2af" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.RenderPipelines.Universal.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/1a/1a4203a132177007d75f0538daf4c37d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Custom-Port-Menu-Empty.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4b/4b0cb3f0306c1b53c0028f3dfe81dade" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/button-tl-play-range.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/InputActionVisualizer.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/GraphView/Nodes/PreviewExpand.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Core.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Resources/Gizmos/ProbeTouchupVolume.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_444a077de582689b80065c15567a7b1a.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/Icons/blackboard.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightPlacement_Icon@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Package Resources/TMP Examples &amp; Extras.unitypackage" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/RandomRangeNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e0/e0ebb4119d9869906e86459feaa0cf5d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/burst-lld-19-hostlin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/09/09baff5a4ba70a5547ef63f3ef7ce3a9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d5/d57a54c16e65a021e3817b3366529c34" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-flagged-assembly.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_icondeletedlocaloverlay@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/27/271c2ddc99d764d1e49237b89bf9e4cf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.pdb" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/Unity.Multiplayer.Center.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-playhead-select-menu.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ab/abe3a6bb6a10a810d86ac1f711bf12a3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e1/e197f70c730667f5267b69355c1c25ae" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Animation/RunSideFlip.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/Customization/Demo/Videos/M09-1317.mp4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/38e125750f24ce95bc50b8b24dab0adf_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.test-framework@dfdbd02f5918/.npmignore" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/cd/cdbd72c39ca70d6652e04288e797d0d4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-drag-create-blend.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Shader_DF_Lighting.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-input-manager-project-settings.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/FeatureExamplesSample.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-custom-class-example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e2/e25573f8ca56076a9336841a96585900" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineHold.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.PerformanceTesting.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3d/3d9982c6d49c7ae6b8035a483300a2d0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.Flow.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.Mathematics.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-clip-control-common.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/59/59521267e0cf616ad3a398ddff0cbe5f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ba/bafaa2b168ec6020dba155b430928c4d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/67/6748d7931b5d194ca75d87e924a8da73" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Textures/2D/Sparkle.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconinfobellnotification@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2a/2a80d541e8e621d06357a14be49ed414" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ea/ea3c9e7977fa083153a2ded0a08f04ec" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/eb/eb1d8bbe7b288aae7d1cd153c7ec7410" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bd/bd0aa3231e7bda0ac67fa6b90ed12169" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/82/825c596b4f5dc9e04e7adacb856bff88" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Rendering.LightTransport.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d4/d4e538e52c7ca64d416c55b970471277" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-leftfoot-audiosrc.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ea/eaa0a67215a315d7ec853c377c57fc22" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/PPv2URPConverters.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f9/f91003e2187916090b7839ca1fe8088b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.InputSystem.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Documentation~/images/PendingChanges.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_LayoutCustom.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_refresh@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/22/2207965d51cba8bb97327e0dd3d1e933" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/SubtractNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineSignalSelected.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/19/198412c9c57caf101980f32bdeedfb2c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/89/89905fbb267ad0d0336ba5e118393b25" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/PosterizeNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.CollabProxy.Editor.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/81/8140750134a88a2c74f93364e714a827" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5b/5bc952facda6171122cfe8e347b86fe1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.Entities.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Utility/Or.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libs/burstRTL_l64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-script-machine-blank.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Documentation~/Common/images/LensFlareMultileElementUniform.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/91/91d81e4f1ffd23e18f922df0283ffc5f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/CustomRenderTextureShaderGraph.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextSpacing.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6b/6b92993061cb66ee10aeafade26a4054" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/Remove@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.PerformanceTesting.Editor.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/LightSkin/TimelineIconClipOut.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/97/97cab5bc2e3fed3f798223e3b9778f34" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Gizmos/NavMeshLink Icon.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconinfobellnotification.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5a/5ade726aceae0bc6f2b842b1c32477a2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a0/a0d2abafa828dfcb3dedcc8addfd7825" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/TextMesh Pro/Resources/Fonts &amp; Materials/Inter-Regular SDF Emissive Variant.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_CanvasRendererInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Add Binding@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Runtime.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/fdd51242abbf8a4c3f40404706ab56a4_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/79/7990e631707907973cbfd08f452fef18" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/Cloud04_8x8.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ef/ef1d922f926f1ed6cf2a68a6c9d0cea1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/MipLevels/RenderGraphViewer/PassInspector@32.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-custom-start.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/ProgressBars/Fancy Loading.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-mask-start.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/spec-tl-overview-instance.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Custom Interpolator/CustomInterpolatorNdotL.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/sg-calculate-level-detail-texture-2d-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/12900333509587573630.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/82/82568fcc7ac226d6b4b62ce36b0df401" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0a/0aeb7494e7874c23d3a54bd61c1be285" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/StyleTextBold.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/38/38fb43849b321da82ec7f3a02e9fe77c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/TextMesh Pro/Resources/Fonts &amp; Materials/SamplesLit_Inter.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bb/bb0d391be483f2c34b963a6e6db94a7e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceOFF.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.Editor.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9a/9aca374f6ef9da62fff98340ae411842" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/95/952da71b2d8943a722d6f85751582869" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9f/9fb10356631caf45d25c18aa3746a627" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-types-menu.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b1/b1bf3d83e4e35abfbc87b639aadd2f0d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_FontAsssetBMPRaster.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Shaders/Lit/Materials/BaseMap.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/93/93e3e94c1dc6595dbbee7b79ec971c60" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Shaders/Lit/Materials/WithNormalMap.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bf/bf3545b055e3e9095d541d6b26d7ace1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e1/e1d6151b437a804f828f0190650578c9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Lib/Editor/unityplastic.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b9/b94cdf541648192d03b36ac7fa5622ea" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/22/225a6a89b619afd3efc430c3426554b6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7f/7f68e2df8ff2234dc7d5e40e6dee6165" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Backgrounds/Lava Lamp.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0b/0b754620d2cb251eec673c99bebda952" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/SquareWaveNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/18/18150f7abf1159f1cd347165ce7072d6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-blackboard.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/10010842633742469623.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ad/ad43551074af480ee72e055e7ee79791" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Samples~/RebindingUI/Icons/XboxOne_LB.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/UV Projection/FlowMapping/FlowMapping.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0b/0ba5b97cd98b40f04357b6b40a0539be" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7e/7ea5435f028b1288a2a4cc8f621233b4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ea/eac24532d2a268c652a21155ba81d3e7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Runtime/Materials/SpatialMappingOcclusion.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Models/NameHolder.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5e/5e4e792727de4dbd0bdb9e18bbc1670c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/Helpers/Posterize Gradient.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0a/0abb5ed2a99240911bb94604bd66fce2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9d/9dd988346b128fd7af6f3d20f3341edc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.VisualScripting.State.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3a/3ae9eff8a60cc8bbc22fc18a1325449a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Meshes/flag.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.pdb" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Assembly-CSharp.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/Assembly-CSharp.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/fc/fc908f69ca1f8c1d5023c9fb0a805f32" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/55/55c19ae2c071b2bee995e45b5639b3e2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Graphics/Source.afphoto" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.CodeGen.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e6/e69c0e73bf7ed0a4d009a43645fa686f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bc/bc9256b30ad61de69ffc00385dc2f9e6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/UV/Perspective.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.InputSystem.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/95/95160fb31dde34587902e8d0592ac50c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/GreySwatch.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a5/a50f4480f6df0082b5c0455366a722ca" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/fba9409045833e01d7301e5719d41425_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d8/d857cdbd842b46962129594d32bc98ad" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/GUITexture-Layout.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Shaders/Lit/Materials/SmoothnessOne.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_ScreenTransitionButtonInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_77623b226a0d9b2add0602da4c23b102.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/LeftArrow.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/70/70a86c682b60ba0c3ddc828b4ffb5207" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/icon-gap-continue.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Searcher.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/DistortTunnel/Tunnel.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.AI.Navigation.ref.dll_407F07063643C512.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Input/SplitTextureTransform.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/SDFs/Operators/SDF Subtract.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/System.Security.Cryptography.Algorithms.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9c/9caee6589396efd55848cc9ac6de601e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/ReflectionProbe-0.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/89/8939fc192d8cb1ee53e0edd538cc2447" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconbranchpendingchanges@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Samples~/RebindingUI/Icons/PS4_R1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/55/55bfc1e2ee0041c8fc4895910d02f5cc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/IntegerNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/aa/aa03a99db7f2a233cfad37464bc92255" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconlockedremoteoverlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Textures/sunset_sky_02.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Rock/Materials/Rock_Rain_LOD0.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3d/3db0263121beb1cddbca1ec033b679da" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Materials/SamplesFixtureEmissive.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Samples~/Common/Materials/Samples_BackdropFabric.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-time-timer-node-example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a0/a00797090f4b42063fa0f033432736d1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/.attestation.p7m" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/7a/7af1abf3c422ef379df96d8655b3eb50" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/04/048d9c668c3f04c7d65ca5f98fb04fc1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/6b/6b77be31c17384a50c05d64a4790192c" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Decals/DecalWaterCaustics.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/.npmignore" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/dd/ddaff202dd7023bc89f3f859f4b5e0bb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4f/4f29dd88a157219e29100b68dbb3509f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d3/d3736b09ec16362b277016c950bac3a8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-add-track-menu.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Editor/Resources/GraphView/Nodes/NodeChevronLeft@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_40ec7fc52bbe67c54ccf3a25c016c022.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f3/f3b52e998388b7ab87e844bfd17ba49d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/BranchNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Artistic/NormalFromHeight.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Stick@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/24/2498eb488cb601bcced33c7c741c40b7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/LookDev.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0e/0e9712a7ddce9d31af245c4e7d742f27" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/CompositeProperties.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.PlasticSCM.Editor.ref.dll_257AEB342BE77856.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Default Materials/Meter Simple Fill.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/CloudySky@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.AI.Navigation.Editor.ConversionSystem.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5c/5c1459a4928a0d66298648416a215aa3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-nodes-events-on-mouse-down-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Ice/Textures/Ice_NS.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/45/452e22a3582bfe5fff28c7630785605f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Subgraphs/Wind.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_SliderExample.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.ShaderLibrary.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8c/8c70e0a9e62c56e22bb34c81daa6c9d2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotyqhapub2.2th/lib_burst_generated_part_b223785fcbdbe4a27e2d3722e3db36c3.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Assembly-CSharp-Editor.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/Assembly-CSharp-Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/24/2423b1c07026b374793ca07e1823bc74" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Textures/cobblestones_h.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0e/0e603fc9485df71f1e2c6eec05093666" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c2/c2fcef8c7990808dc6f81960320bf0c7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/iconlock@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/76/76785da8c2e5afdfb7f46e794bfd4403" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/81f19c8a58c11a30122cc2ed85130f49_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.RenderPipelines.Universal.Config.Runtime.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-control-cache-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/NavigationOverlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_ec632d4d28f4ff494fdc1e6f91b50bde.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/14/14106c463d139d35c274af29ca7dd5a1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/TrackCurvesButtonEnabled.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.test-framework@dfdbd02f5918/Samples~/7_PlayModeTests/an_empty_project" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/1d/1dd57c5f04ee968a2c3b9ef2d830fa0d" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/15a5ed76c719e734e430a81f7ce27ace_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_icondeletedremote@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Scenes/URPProductionReadyShaders/TerrainLit.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2c/2c3cb224972d5f96f5818a666400363f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Procedural/Rectangle.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/Processors-Scale-Look-Pointer.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/Overcast@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/67/677826b6187d1d7f62407f055f2da652" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextLineIndent.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/93/9371c289faf510df84a82f9860c8a385" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4a/4a6caee92008ca08cfb9c5a5d76876d0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextStyle.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/4f9d124b161d6643af453644f35c487f_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/43/43aa7ef75528d44973a043c6ac9a8af1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-8.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/Lighting/Reflection Probes/Reflection Probes/ReflectionProbe-2.exr" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_Profiler_Image_1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/iconbrex@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Object_ExtraUI.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Weather/Rain/Components/Rain_Drips.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/19/1949c54592c82c9555bdc093b9e2aee7" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Math/TriangleWave.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d3/d3cab4845d75580511ba1633db48a841" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-formula-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/63/638eb5be92998215b1f1ad5f818722e2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.InputSystem.ref.dll_FD2EC87C14EBE081.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Indicators/Fantasy Meter.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ide.rider@4d374c7eb6db/.signature" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/PreviewNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2f/2f6d7b6bb479e8b2e5426ec4288b2ccf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Collections.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_hideversioncontrol.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4d/4d1b314878494c737394dd551efab31e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/821e1a02be41e5ad01e145bdf601c6f8_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/fa/fa8ac30ec2c8dd5a67246f62456a1e80" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Stick@3x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Indicators/Dial Meter.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Universal.Config.Runtime.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/2D/Resources/Sparkle.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5b/5b637db037c7a0a04649692f897a487f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.VisualScripting.Core.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/Layout1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/79/79ab61754e1ce622015772f76ce849ca" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/button-rotate-tool.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_8f778f1045e597de4fb57be76d58bf33.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Button.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotx7yk5ec2.w32/lib_burst_generated_part_2c35c78b2a3680810635a43f22779691.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/d_Interactive Binding.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/Label-D.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d3/d3176480e8e521963ec7ce0aef20c224" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimpleAdditionalLights.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Runtime/Materials/ArnoldStandardSurface/ArnoldStandardSurface.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/2D/Resources/LightCapBottomLeft.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_Remove.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.VisualScripting.SettingsProvider.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Dpad@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/MultiplyNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Details/clover/clover.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_e1a600a5b1122626d6f5840453636d73.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/09/09f0033d00b4191661ddb26acf128376" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.Mathematics.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/788fb763acd86194e7c5e66404b5d192_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/12812556936427222528.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/ProductionReadySample.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8a/8a9482c15a29faa086ffa878d2dc48f2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Mouse.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/87/87d10b566c5c4a6926dfe735d71dcb08" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/ActiveInputHandling.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_f531652faf1e45081f68869b8a72d6da.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/InputSettingsNoProjectWideAsset.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/5a/5aa86c15954fb5e17f9974db136db9f8" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/SceneTemplates/Standard.scenetemplate" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/49/49744325b69ce8e3351a555bb07d380f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/NegateNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/GUI_Pivot_Local_Buttons.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/39/39c145f2a3eeb67801fff0a546cccab9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/73/73a1cc013fed554192fff06bfd8bdb5f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9d/9d783bd6869ff1ea0cab137d3f4ffecd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/ChevronUp@4x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/12/122b2a36cfcc9cd9f9dd1f47da7defc6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_Environment.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/97/97e09d0e39f59a92cfcf6d0bc1ed9daf" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.TextMeshPro.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ea/ea5daf8787b07cacbcf38f6220eb0cb4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.PerformanceTesting.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Subgraphs/DepthFade.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/Helpers/Rounded Corners.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Lighting/Icons/LightUnitIcons/d_Shade@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Samples~/Models/heightmesh.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/InitialStateCheck.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/fd/fd91445442d07fd416cbb3a6a17a01b4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_DropdownHierarchyScrolling.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_Shader_DFS_Glow.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/EditorAssetResources/Unity.VisualScripting.TextureAssets.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/70/70472c079989593819eb617df5919f70" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/1b/1b864cf1c59001a4aaf86de7db15bf32" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Documentation~/Images/NavMeshLink-Example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/18/1861b665e4eb8a301fd4ea405a4d1a44" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ae/ae095c847be446d2ee8d7012727f9226" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2b/2b8f3f60beb91dfbd79e28283c8982a2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ff/ffdca373c73a1466c3a41fd8fb92fbb0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_70d01facf59184ab7d9b6bd2740b5132.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Textures/terrain/stone_ground/stone_ground.terrainlayer" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/post-processed/Unity.CollabProxy.Editor.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/Camera2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/UnityEditor.TestRunner.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/WhiteBalanceNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/31/315aed6a6c4ec8c35240504e2fe5f60a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/4a/4aa6fdc7e1bc6f9eba7ed7cd1187074a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0c/0c972b5a8fa80dfc995a68d7bb29bcb6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.PlasticSCM.Editor.dll.mvfrm.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/d_iconoutofsyncoverlay.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.searcher@1e17ce91558d/Documentation~/images/quick_search.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/d_NavigationOverlay@256.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ac/acdbb1b208ba67d7f2f3bdbc56c1f3a1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/refresh@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/aa/aa238557416525cfa49a3a51b59f1aba" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/MipLevels/d_RenderPipelineResources@256.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/95/95dcd6aa6a75f51dcbeec3529e97a65b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Samples~/RebindingUI/Icons/PS4_Right_Stick.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/72/726de1c0fa4f671d5cf47eee591a456f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Subgraphs/SDFs/Hexagon.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/da/da49259fdc1966cfcb36de6539c69aaa" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/Detail Mapping/DetailMappingColor.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-state-machine-blank.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-variables-set-variable-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/Blackboard.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Rendering.LightTransport.Runtime.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_8f37a29b850e64637b028e3529fedcf1.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/94/942af82ddda441f49fa6261ba302e35f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0f/0ffbe32bd6b8c2568a551108594a1377" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Input/Object.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/f2/f27098f3796cfb4a568c81515bced4f9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0e/0e6ebf8c7e23d5599f2c849fac56a984" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/16/16576323f546f2f2d5aff7b358d10da6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/a043a4b95606d02e24ff0cc018ef8581_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/mvdfrm/Unity.Mathematics.Editor.ref.dll_9A20CFD48BC11F43.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.pdb" />
+    <option name="AFTER_PATH" value="Library/ScriptAssemblies/Unity.Multiplayer.Center.Common.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2025_9_13_下午_03_31_[Changes]/Unity.Multiplayer.Center.Common.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.Shared.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-capturing-player-inputs-new-9-fire.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9b/9bf2eb4c1b973d57071c370d312b958a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Documentation~/images/FileLocks.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.collab-proxy@ab839cc7d2ad/Editor/Assets/Images/step3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/2b/2b7ce0659af1aa237c27286c94db71e9" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Details/clover/clover.FBX" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/TimingInputsPerFrame.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/Unity.Burst.Unsafe.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/CachedNodeOutput/a888d9a6f7f53b67d10ecf19abb76b7a_out" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_18315121a9f14c7140ec55ec386d5f0f.gbc" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/Button@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/insp-speed-multipler.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/DepthBlit/DepthEdge.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/0a/0a803a4f4de793e4a6c218cec9d340b4" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b3/b381ee699b235120e6e136cdf4c20fc5" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Mathematics.Editor.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9f/9f965ce6aa3fa0115e44ebf76b7c966a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/d2/d26a9f7ecdbd09640c4cce73f25f2065" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/UV Projection/MatCap/MatCap.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/ProgressBars/Simple Loading.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/EditorResources/Overlay/NavigationOverlay@128.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-input-new-system-v2-node-set.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bb/bb0f34a5a570b77dfe7b8bf7ec3abf31" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_cfde4f912c3df737569bfe85ccd2b2af.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/TrailEffect/SandBoxModel.fbx" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e8/e8c974ad38cb2e7d67724143d500fc15" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/FeatureExamples/VertexAnimation/Particles/WaterfallSplash.mat" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/35/350f2a98b794f4ee38b0f5e66fe33d95" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ef/eff08141a9d78597278235ac7a165980" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/Icons/MipLevels/d_RenderPipelineResources@64.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Samples~/URPPackageSamples/RendererFeatures/GlitchEffect/Glitch_Graph.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.VisualScripting.State.Editor.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/a3/a30fc934aff470823b2b782fafa899c0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.burst@6aff1dd08a0c/.Runtime/libs/burstRTL_w32.lib" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.Burst.rsp2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Textures/matcap_example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_SunPosition@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/ExponentialNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3f/3f8bcc2345ff14335c4ba852016605bd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/RectangleNodeThumb.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ai.navigation@eb5635ad590d/Documentation~/Images/NavAnimStates.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b4/b48f0fcbaa904caee80a4be5edc82981" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ext.nunit@031a54704bff/net40/unity-custom/nunit.framework.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-capturing-player-inputs-new-4-input-player-settings.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-add-node-overloads-2.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ee/ee5e663f1265f372825d2f82783aadd1" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Utility/And.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-control-switch-enum-control-node.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/71/713c61d09461a1099ffa944d2cc63c9e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c4/c4069d17d286c05ad57cc3795e79984f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/e2/e295a1b838a6477d6fd077d87f52de2b" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/InputSystem/Editor/Icons/d_ChevronDown@4x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Indicators/Aqua Meter.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Documentation~/Images/LookDevEnvironmentLibrary3.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Runtime.Shared.dll.mvfrm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/bc/bcbe08760faa15cd827feaeb49a37f91" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/1900b0aE.dag/Unity.RenderPipelines.Core.Editor.Shared.ref.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Buttons/Aqua Button.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/ProductionReady/Environment/Rock/RockMicroDetail.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/c9/c94dbef3fe97dba53bbe0613dd43de0e" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-events-animation-choose-animation-function-inspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/Numeral_0_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/d_RightArrow@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/94/94abae43bfcd482dde26c996a993e138" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/b5/b528718174b68189d92dcc4205b423c6" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Bee/artifacts/rsp/6841316898876630997.rsp" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.core@571bc777a084/Editor/LookDev/Icons/Layout1@2x.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-gameobject-icon.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/64/647c4f742535d96c0bb529a14b8e8deb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/dd/dd3b3ff6462892a96ffba674d0603f96" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/UGUIShaders/Examples/Backgrounds/Tech Grid.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/42/426827b52ff1e53e759cdc35fd64faed" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.inputsystem@978211393e28/Documentation~/Images/Processors-Scale-Look.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_ToggleGroupInspector.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/64/6417ce857c771e2285fc395b93878961" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/ca/caa814832fbd258288974f8a8d535d95" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Documentation~/images/tl-victory-double-speed.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/15/15e87c902ed7664f5ce49cb8ac021d13" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/3c/3c4034becdcc9f385b08737659b8c5e0" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextExample4.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/9e/9e6c6be30c0f0670908f8bf58ed1ae02" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/Common/Subgraphs/UVFlowMap.shadersubgraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/8b/8b058b5c395eb449c6c110704e705aa2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/33/332ccc2eb6211663eb4f83a4045f7ab2" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_ColorGradient_4-Corner-YBRO_half.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Temp/Burst/burst-aotz9m7y1cy.sc8/lib_burst_generated_part_06d34a132a763cc87a1b9dbd3092e8ea.obj" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/TMP_RichTextIntro1.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.ugui@529b01454a55/Documentation~/images/UI_MultiResCorners.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.timeline@c58b4ee65782/Samples~/GameplaySequenceDemo/Character/Textures/DefaultMale_SpecSmooth.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/1f/1fe4b546e91c8cc7f9da3acf1f265f8f" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/Artifacts/96/966598737ea003d503da228f982b2147" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Samples~/NodeReference/Artistic/Contrast.shadergraph" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Documentation~/images/vs-blank-graph-super-state-example.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.render-pipelines.universal@dd24be0d7cf1/Editor/2D/ShapeEditor/Resources/Path/pointPreview.png" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="Library/PackageCache/com.unity.shadergraph@58c763b6444e/Documentation~/images/SubgraphNodeThumb.png" />
+  </binary>
+</changelist>
