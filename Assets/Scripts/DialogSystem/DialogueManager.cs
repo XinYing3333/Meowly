@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,6 +6,7 @@ using TMPro;
 using Ink.Runtime;
 using UnityEngine.EventSystems;
 using DialogSystem;
+using Random = UnityEngine.Random;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -52,6 +54,9 @@ public class DialogueManager : MonoBehaviour
     private InkExternalFunctions inkExternalFunctions;
     
     private float submitLockUntil = 0f; // 鎖到什麼時刻為止（unscaled time）
+    
+    public event Action OnDialogueFinished;
+    
     private bool SubmitPressedNow =>
         Time.unscaledTime >= submitLockUntil &&
         Input.GetMouseButton(0);
@@ -222,6 +227,7 @@ public class DialogueManager : MonoBehaviour
         dialoguePanel.SetActive(false);
         dialogueText.text = "";
 
+        OnDialogueFinished?.Invoke();
         // go back to default audio
         SetCurrentAudioInfo(defaultAudioInfo.id);
     }
