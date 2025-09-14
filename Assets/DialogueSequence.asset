@@ -13,47 +13,47 @@ MonoBehaviour:
   m_Name: DialogueSequence
   m_EditorClassIdentifier: 
   lines:
-  - speaker: "旁白"
-    content: "歡迎妳，新來的。"
+  - speaker: "\u65C1\u767D"
+    content: "\u6B61\u8FCE\u59B3\uFF0C\u65B0\u4F86\u7684\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "我知道妳對這份工作一定有很多疑問。"
+  - speaker: "\u65C1\u767D"
+    content: "\u6211\u77E5\u9053\u59B3\u5C0D\u9019\u4EFD\u5DE5\u4F5C\u4E00\u5B9A\u6709\u5F88\u591A\u7591\u554F\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "畢竟『遺物整理師』這個稱號聽起來有些沉重。"
+  - speaker: "\u65C1\u767D"
+    content: "\u7562\u7ADF\u300E\u907A\u7269\u6574\u7406\u5E2B\u300F\u9019\u500B\u7A31\u865F\u807D\u8D77\u4F86\u6709\u4E9B\u6C89\u91CD\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "但對我來說，我們不是單純在處理物品。"
+  - speaker: "\u65C1\u767D"
+    content: "\u4F46\u5C0D\u6211\u4F86\u8AAA\uFF0C\u6211\u5011\u4E0D\u662F\u55AE\u7D14\u5728\u8655\u7406\u7269\u54C1\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "而是在整理一段人生。"
+  - speaker: "\u65C1\u767D"
+    content: "\u800C\u662F\u5728\u6574\u7406\u4E00\u6BB5\u4EBA\u751F\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "每一件被留下的東西，都承載著一個人的記憶、情感，甚至夢想。"
+  - speaker: "\u65C1\u767D"
+    content: "\u6BCF\u4E00\u4EF6\u88AB\u7559\u4E0B\u7684\u6771\u897F\uFF0C\u90FD\u627F\u8F09\u8457\u4E00\u500B\u4EBA\u7684\u8A18\u61B6\u3001\u60C5\u611F\uFF0C\u751A\u81F3\u5922\u60F3\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "你的工作，就是走進這些故事。"
+  - speaker: "\u65C1\u767D"
+    content: "\u4F60\u7684\u5DE5\u4F5C\uFF0C\u5C31\u662F\u8D70\u9032\u9019\u4E9B\u6545\u4E8B\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "輕輕地、溫柔地，將它們妥善歸類。"
+  - speaker: "\u65C1\u767D"
+    content: "\u8F15\u8F15\u5730\u3001\u6EAB\u67D4\u5730\uFF0C\u5C07\u5B83\u5011\u59A5\u5584\u6B78\u985E\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "整理的不只是物品，更是將某個人的過去....完整地交給未來。"
+  - speaker: "\u65C1\u767D"
+    content: "\u6574\u7406\u7684\u4E0D\u53EA\u662F\u7269\u54C1\uFF0C\u66F4\u662F\u5C07\u67D0\u500B\u4EBA\u7684\u904E\u53BB....\u5B8C\u6574\u5730\u4EA4\u7D66\u672A\u4F86\u3002"
     darkenScene: 1
     brightenScene: 0
-  - speaker: "旁白"
-    content: "準備好了嗎？妳的第一份委託，在等著妳。"
+  - speaker: "\u65C1\u767D"
+    content: "\u6E96\u5099\u597D\u4E86\u55CE\uFF1F\u59B3\u7684\u7B2C\u4E00\u4EFD\u59D4\u8A17\uFF0C\u5728\u7B49\u8457\u59B3\u3002"
+    darkenScene: 1
+    brightenScene: 0
+  - speaker: "\u73A9\u5BB6"
+    content: ...
     darkenScene: 0
     brightenScene: 1
-  - speaker: "玩家"
-    content: "..."
-    darkenScene: 0
-    brightenScene: 0
