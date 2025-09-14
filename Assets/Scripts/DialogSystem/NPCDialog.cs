@@ -15,29 +15,18 @@ public class NPCDialog : MonoBehaviour
     [Header("Ink JSON")]
     [SerializeField] private TextAsset inkJSON;
 
-    private bool cannotPlay = true;
+    private bool cannotPlay = false;
 
     void Awake()
     {
-        emoteAnimator = transform.GetChild(0).GetComponent<Animator>();
     }
     
     void Update()
     {
-        if(cannotPlay)return;
-        if (!DialogueManager.GetInstance().dialogueIsPlaying)
+        if (!DialogueManager.GetInstance().dialogueIsPlaying && !cannotPlay)
         {
-            DialogueManager.GetInstance().EnterDialogueMode(inkJSON, emoteAnimator); 
+            DialogueManager.GetInstance().EnterDialogueMode(inkJSON, emoteAnimator);
+            cannotPlay = true;
         }
-        else
-        {
-            //keyE.SetActive(false);
-        }
-        
-    }
-
-    public void StartDialogue()
-    {
-        cannotPlay = false;
     }
 }

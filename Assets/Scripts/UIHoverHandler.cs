@@ -1,4 +1,5 @@
 using System;
+using System.Collections;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -7,6 +8,8 @@ public class UIHoverHandler : MonoBehaviour, IPointerEnterHandler, IPointerExitH
 {
    
     [SerializeField]private Animator animator;
+    [SerializeField]private GameObject gamePanel;
+    [SerializeField]private bool start;
 
 
     private void Update()
@@ -33,5 +36,14 @@ public class UIHoverHandler : MonoBehaviour, IPointerEnterHandler, IPointerExitH
     public void StartGame()
     {
         animator.SetTrigger("start");
+        StartCoroutine(OpenGame());
+    }
+
+    IEnumerator OpenGame()
+    {
+        if(start)yield break;
+        yield return new WaitForSeconds(1.5f);
+        gamePanel.SetActive(true);
+        start = true;
     }
 }

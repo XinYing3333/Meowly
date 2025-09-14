@@ -61,7 +61,6 @@ public class DialogueManager : MonoBehaviour
         Time.unscaledTime >= submitLockUntil &&
         Input.GetMouseButton(0);
 
-// 小工具：鎖住提交若干秒（預設 0.08 秒足夠跨過同一幀）
     private void LockSubmit(float seconds = 0.08f)
     {
         submitLockUntil = Time.unscaledTime + seconds;
