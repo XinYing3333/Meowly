@@ -1,0 +1,614 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.55f1 (c5f59906196d) revision 12973465'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26100) 64bit Professional' Language: 'zh' Physical Memory: 32454 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2025-09-14T03:25:44Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.55f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/user/RiderProjects/Meowly
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+12478
+-job-worker-count
+11
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/Users/user/RiderProjects/Meowly
+C:/Users/user/RiderProjects/Meowly
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5924]  Target information:
+
+Player connection [5924]  * "[IP] 210.62.225.154 [Port] 0 [Flags] 2 [Guid] 1875457719 [EditorId] 1875457719 [Version] 1048832 [Id] WindowsEditor(7,SYB114-04) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [5924] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [5924] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 11
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 0.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.55f1 (c5f59906196d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/RiderProjects/Meowly/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 (ID=0x2882)
+    Vendor:   NVIDIA
+    VRAM:     7957 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56648
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.55f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.002216 seconds.
+- Loaded All Assemblies, in  0.249 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 160 ms
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.415 seconds
+Domain Reload Profiling: 664ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (105ms)
+		LoadAssemblies (82ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (103ms)
+			TypeCache.Refresh (102ms)
+				TypeCache.ScanAssembly (92ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (416ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (392ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (218ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (42ms)
+			ProcessInitializeOnLoadAttributes (84ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.202 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.284 seconds
+Domain Reload Profiling: 485ms
+	BeginReloadAssembly (124ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (23ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (34ms)
+		LoadAssemblies (71ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (28ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (16ms)
+			BuildScriptInfoCaches (4ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (284ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (197ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (51ms)
+			ProcessInitializeOnLoadAttributes (118ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 948 unused Assets / (223.3 KB). Loaded Objects now: 1463.
+Memory consumption went from 61.2 MB to 61.0 MB.
+Total: 3.861300 ms (FindLiveObjects: 0.098500 ms CreateObjectMapping: 0.049300 ms MarkObjects: 3.436800 ms  DeleteObjects: 0.275800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1880.972674 seconds.
+  path: Assets/Scripts/DialogSystem/InkExternalFunctions.cs
+  artifactKey: Guid(496cfd7009664d23a9552bdbe8808ea2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/DialogSystem/InkExternalFunctions.cs using Guid(496cfd7009664d23a9552bdbe8808ea2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '84729f8c42e30a8b2415bd720261bfba') in 0.0773513 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '34aff17da0a134b308cf673eee32cfe0') in 0.0169644 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Plugins/Ink/Documentation/Ink for Unity Package Documentation.pdf
+  artifactKey: Guid(14ef4e5406aeb4a2fae0345fcb74d1a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Documentation/Ink for Unity Package Documentation.pdf using Guid(14ef4e5406aeb4a2fae0345fcb74d1a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd51414896bc27289ff696684e0e1e63e') in 0.0118652 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c630e7beb1398ef8e093fd5c59e1064a') in 0.0104099 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/TutorialInfo/Icons/URP.png
+  artifactKey: Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Icons/URP.png using Guid(727a75301c3d24613a3ebcec4a24c2c8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '99367ffce303178c34d753c7b82cb0c7') in 0.0325364 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scripts/DialogSystem/DialogueManager.cs
+  artifactKey: Guid(7b6d8d7f59284f76b810f3afa10cb8e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/DialogSystem/DialogueManager.cs using Guid(7b6d8d7f59284f76b810f3afa10cb8e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '314784e747d14aeb9d83c827986d4f7e') in 0.0103907 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+  artifactKey: Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph using Guid(a3d800b099a06e0478fb790c5e79057a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a48b1e01203c9d1c85f97fd553b72d14') in 0.0074549 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/Settings/Mobile_Renderer.asset
+  artifactKey: Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/Mobile_Renderer.asset using Guid(65bc7dbf4170f435aa868c779acfb082) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd48ffdbc64784e1bdb7f2b3de005a0c4') in 0.0105278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkRuntime/ChoicePoint.cs
+  artifactKey: Guid(b790cb942d6b84ca28e93a2b46d8c48f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkRuntime/ChoicePoint.cs using Guid(b790cb942d6b84ca28e93a2b46d8c48f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e642d52ece0485c5fc8f131124e7aa30') in 0.0081322 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkCompiler/Compiler.cs
+  artifactKey: Guid(041ad81bb22094b95bec754d7d480a82) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkCompiler/Compiler.cs using Guid(041ad81bb22094b95bec754d7d480a82) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fd42be0470ab64f9c1281b5165173809') in 0.0091621 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd510f8aed188ea8f642fd405e57a3722') in 0.0260092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e48e0c3d85b59964b336b14004ca0fad') in 0.0086552 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Resources/Fonts/edu_standard_1.txt
+  artifactKey: Guid(eb7a89110ec1df2428c171f9572f6f34) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Fonts/edu_standard_1.txt using Guid(eb7a89110ec1df2428c171f9572f6f34) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'bf48e47fe2adec353023e225c95842f1') in 0.0086786 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Resources/Sprites/Object-frame.png
+  artifactKey: Guid(a82dfc0b7a20e5344b4889d434806b96) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Sprites/Object-frame.png using Guid(a82dfc0b7a20e5344b4889d434806b96) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c76a66ccef314ac86126acd40afa8ad4') in 0.0170314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkRuntime/Container.cs
+  artifactKey: Guid(2739750c31df04462a8dedfa904e8760) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkRuntime/Container.cs using Guid(2739750c31df04462a8dedfa904e8760) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '70f18679402134f4a0fae479db9507ff') in 0.0087149 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Resources/Sprites/ClientPig.png
+  artifactKey: Guid(93c12acb7576ba547be797ab16611a59) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Sprites/ClientPig.png using Guid(93c12acb7576ba547be797ab16611a59) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e04397b5d7d4e334ed8f9820814e2987') in 0.0201532 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/TutorialInfo/Layout.wlt
+  artifactKey: Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Layout.wlt using Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c98d017001bc06cb025a413aed3d28b1') in 0.0080509 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+  artifactKey: Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph using Guid(124c112a6e8f1a54e8b0870e881b56d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '98749a8e821929201b14c3c2bf479aa2') in 0.0064872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Scripts/DialogSystem/NPCDialog.cs
+  artifactKey: Guid(9aa370c6de3a5e7448e8a4d729e1b136) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/DialogSystem/NPCDialog.cs using Guid(9aa370c6de3a5e7448e8a4d729e1b136) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1a0732c9a477067cd6ed73807d30dc32') in 0.0095161 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Plugins/Ink/Documentation/API Documentation.pdf
+  artifactKey: Guid(5d61fdab16c0247cdb5775f69fe450b5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Documentation/API Documentation.pdf using Guid(5d61fdab16c0247cdb5775f69fe450b5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c6502e3b1204a02280758706bb71b07e') in 0.0079121 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Resources/Sprites/Player.png
+  artifactKey: Guid(918dc8924f250854e987d70116b2cf42) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Sprites/Player.png using Guid(918dc8924f250854e987d70116b2cf42) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '61fba1c93cbc9471569543c58143d2f9') in 0.0155959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Scripts/UIHoverHandler.cs
+  artifactKey: Guid(0ef510dfa3f6bf24bb1e8ca657f9fac3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scripts/UIHoverHandler.cs using Guid(0ef510dfa3f6bf24bb1e8ca657f9fac3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6247fa4fb3f7efc9bca52aab90da055f') in 0.008747 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Plugins/Ink/Demos/Basic Demo/Basic Demo.unity
+  artifactKey: Guid(8af1c5cbac5094782904447c9410b35d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Demos/Basic Demo/Basic Demo.unity using Guid(8af1c5cbac5094782904447c9410b35d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e9e99f0d086747afc9d1464821e65ca6') in 0.008538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Resources/Sprites/ClientPig-cry.png
+  artifactKey: Guid(eea200d4f9255c144b953a40f9dff4a7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Resources/Sprites/ClientPig-cry.png using Guid(eea200d4f9255c144b953a40f9dff4a7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dda52e923bb37e45bad26fa901a85f62') in 0.016769 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+  artifactKey: Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat using Guid(79459efec17a4d00a321bdcc27bbc385) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '69aca39dae1a81a69cf77f2bc125e5e7') in 0.0236416 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.280016 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkRuntime/ListDefinitionsOrigin.cs
+  artifactKey: Guid(ec881a45ed342471fb87e412417b6343) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkRuntime/ListDefinitionsOrigin.cs using Guid(ec881a45ed342471fb87e412417b6343) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ec30d2ce8849b72bfb89c0687c1b840f') in 0.0106632 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Plugins/Ink/Demos/Basic Demo/Prefabs/Button.prefab
+  artifactKey: Guid(37c108a6c38964f79a6621eccb33ddc1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Demos/Basic Demo/Prefabs/Button.prefab using Guid(37c108a6c38964f79a6621eccb33ddc1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a8bf1dcffdc5378b216ab5bf12ec2491') in 0.0433763 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkCompiler/Plugins/Plugin.cs
+  artifactKey: Guid(afc85318112c14186b267528f5930957) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkCompiler/Plugins/Plugin.cs using Guid(afc85318112c14186b267528f5930957) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0649fdef85c3d642a5a4fe85fd47824a') in 0.0090561 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Plugins/Ink/Editor/Core/Ink Library/InkLibrary.cs
+  artifactKey: Guid(dc234ab28a32840f5adfb84a075bc023) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Core/Ink Library/InkLibrary.cs using Guid(dc234ab28a32840f5adfb84a075bc023) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6efe50d493352b09e6f9e8402e207e6b') in 0.01136 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkCompiler/ParsedHierarchy/ContentList.cs
+  artifactKey: Guid(d310eb8e3c23e41db891c939a1313cda) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkCompiler/ParsedHierarchy/ContentList.cs using Guid(d310eb8e3c23e41db891c939a1313cda) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '650c1e0980b9d462e289898f3ae9b8df') in 0.008749 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Plugins/Ink/Demos/Basic Demo/Scripts/BasicInkExample.cs
+  artifactKey: Guid(66e957d58a4584a8894329531ec0b096) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Demos/Basic Demo/Scripts/BasicInkExample.cs using Guid(66e957d58a4584a8894329531ec0b096) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '46769e6156f2d193319110e8da926b3f') in 0.0092188 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Plugins/Ink/Editor/Core/Ink Library/InkFile.cs
+  artifactKey: Guid(b497ccd4b61cb4fee8b8f0ce86302e83) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Core/Ink Library/InkFile.cs using Guid(b497ccd4b61cb4fee8b8f0ce86302e83) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '26c35d059dba9a9c65e70cdede019e42') in 0.0095459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkRuntime/VariableReference.cs
+  artifactKey: Guid(3c9a8ec523da34a6196730896d7a2c1d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkRuntime/VariableReference.cs using Guid(3c9a8ec523da34a6196730896d7a2c1d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a1b30fa21a13a3ecf34510e1e3a02a6') in 0.0099872 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkCompiler/InkParser/InkParser_Logic.cs
+  artifactKey: Guid(aa9a6c9127e3f4eb8a46f532557ccd2b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkCompiler/InkParser/InkParser_Logic.cs using Guid(aa9a6c9127e3f4eb8a46f532557ccd2b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c45ef6c13a848895b1e2b7e3c68db754') in 0.0090147 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Plugins/Ink/Editor/Core/Ink Settings/InkSettingsEditor.cs
+  artifactKey: Guid(4842c69e8d1f0443d8f4626c65ea356a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Core/Ink Settings/InkSettingsEditor.cs using Guid(4842c69e8d1f0443d8f4626c65ea356a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a53531e8803820616521eee4c86eaf61') in 0.0093433 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkCompiler/InkParser/InkParser_Statements.cs
+  artifactKey: Guid(42fdd6da57c584bf58ff578d093b8529) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkCompiler/InkParser/InkParser_Statements.cs using Guid(42fdd6da57c584bf58ff578d093b8529) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5c5342e5ecfe67071ef5213528337b21') in 0.0093417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Plugins/Ink/InkLibs/InkRuntime/StoryState.cs
+  artifactKey: Guid(69b5ba5009dea4a3d8f67fbe1ebbc902) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/InkLibs/InkRuntime/StoryState.cs using Guid(69b5ba5009dea4a3d8f67fbe1ebbc902) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0e8967baf03f7e40d759e9122db808b4') in 0.0097846 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Plugins/Ink/Editor/Tools/Startup Window/InkUnityIntegrationStartupWindow.cs
+  artifactKey: Guid(c436e11a2a780e14680d25152259eadd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Tools/Startup Window/InkUnityIntegrationStartupWindow.cs using Guid(c436e11a2a780e14680d25152259eadd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '44e83cce89f56be4dd445c53e53f7ee9') in 0.0090586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/Plugins/Ink/Demos/Basic Demo/Ink/story.json
+  artifactKey: Guid(6cf48bb6d89824cc69e35b43f9a1aca6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Demos/Basic Demo/Ink/story.json using Guid(6cf48bb6d89824cc69e35b43f9a1aca6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5ae291f8d66a97b8be8e70c552415bc6') in 0.0072572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.332350 seconds.
+  path: Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkChildIcon-Large.psd
+  artifactKey: Guid(f4e541342c07c476094e04dc118fed7b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkChildIcon-Large.psd using Guid(f4e541342c07c476094e04dc118fed7b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '027bede9c3dc8dd16fc45ebbb4ff1cde') in 0.0182826 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkFileIcon-retina.psd
+  artifactKey: Guid(bd3c497264be941e3a935055a433bbb9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkFileIcon-retina.psd using Guid(bd3c497264be941e3a935055a433bbb9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f1199d3d7ce02b6aa70fe1c5b5c6f272') in 0.0121031 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkWarningIcon.psd
+  artifactKey: Guid(efc1324f6160840a9a4c26231cc2d304) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Plugins/Ink/Editor/Tools/File Icons/Resources/InkWarningIcon.psd using Guid(efc1324f6160840a9a4c26231cc2d304) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9708036abb17c62360d41e7b6ef18b2e') in 0.0116139 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.196 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.305 seconds
+Domain Reload Profiling: 500ms
+	BeginReloadAssembly (122ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (13ms)
+	LoadAllAssembliesAndSetupDomain (27ms)
+		LoadAssemblies (74ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (11ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (305ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (214ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (54ms)
+			ProcessInitializeOnLoadAttributes (127ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Refreshing native plugins compatible for Editor in 0.14 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 947 unused Assets / (127.1 KB). Loaded Objects now: 1467.
+Memory consumption went from 61.7 MB to 61.6 MB.
+Total: 3.487500 ms (FindLiveObjects: 0.094700 ms CreateObjectMapping: 0.028200 ms MarkObjects: 3.194100 ms  DeleteObjects: 0.169700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 106.840582 seconds.
+  path: Assets/Resources/Animations
+  artifactKey: Guid(75f7501fe5cdf3e4298b1fefca6603bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations using Guid(75f7501fe5cdf3e4298b1fefca6603bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cdfd46ea7326b9c567c8a170dd81a774') in 0.0013789 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063201 seconds.
+  path: Assets/Resources/Animations/-1.png
+  artifactKey: Guid(7dea24c27dbd130448e77cb8601b4b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/-1.png using Guid(7dea24c27dbd130448e77cb8601b4b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e2ec21de2ab7e5220d7992db54fce421') in 0.1177245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Resources/Animations/-4.png
+  artifactKey: Guid(0dc615402db00db4daca2a9c7c761ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/-4.png using Guid(0dc615402db00db4daca2a9c7c761ec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '869a4225108ba77159b9226d15599c59') in 0.015792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/Resources/Animations/-5.png
+  artifactKey: Guid(337db24b01ad3974b9f340ad19ad2265) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Animations/-5.png using Guid(337db24b01ad3974b9f340ad19ad2265) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '64147b7b6936dd3f08643a517286a311') in 0.0139019 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
